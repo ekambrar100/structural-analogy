@@ -1,7 +1,7 @@
-Python 3.7
-Pytorch 1.4.0
+python
+pytorch
 argparse
-Pillow 7.0.0
-Scipy 1.4.1
-skimage 0.16.2
+pillow
+scipy
+skimage
 numpy
